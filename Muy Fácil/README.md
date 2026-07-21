@@ -1,8 +1,8 @@
-🐳 **DockerLabs** es una plataforma de laboratorios de pentesting basada en Docker que permite practicar técnicas de hacking ético en un entorno seguro y controlado.
+📁 Muy Fácil
 
-📁 Nivel: Muy Fácil
+🐳 Bienvenido a la sección **Muy Fácil** de **DockerLabs**.
 
-📚 Esta carpeta contiene los writeups de las máquinas con dificultad **Muy Fácil**, diseñadas para aprender y reforzar los fundamentos del pentesting en un entorno seguro y controlado.
+Esta carpeta contiene los writeups de las máquinas con dificultad **Muy Fácil**, diseñadas para aprender y reforzar los fundamentos del pentesting en un entorno seguro y controlado.
 
 🎯 Objetivos
   - 🔍 Reconocimiento
